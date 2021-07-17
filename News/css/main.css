@@ -1,0 +1,96 @@
+body {
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    font-size: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+}
+
+
+
+.menu {
+    width: 685px;
+    height: 165px; 
+    background-color: #ccc;
+    margin: auto;
+}
+.logo {
+    width: 50px;
+    margin: 10px 0 0 20px;
+}
+
+.menu1 {
+    list-style-type: none;
+    display: block;
+    width: 535px;
+    height: 37px;
+    background-color: #000;
+    margin: auto;
+    margin-top: -27px;
+    border-radius: 3px;
+    padding: auto;
+    color: red;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0;
+    padding: 0;
+}
+.z {
+    padding: 10px;
+}
+
+.z li {
+    float: left;
+    display: block;
+    margin-right: 20px;
+}
+.z li a {
+    color: #fff;
+    text-decoration: none;
+}
+.ots {
+    width: 685px;
+    margin: auto;
+}
+.str1 {
+    
+    
+    
+}
+.menu-sec {
+    margin-top: 60px;       
+    float: left;
+    width: 196px;
+    height: 87px;
+    background: #ccc;
+    border-radius: 3px;  
+    margin-right: 27px;
+    
+}
+.okn {
+    width: 177px;
+    height: 16px;
+    background: #6f6c6c;
+    margin: 64px 10px 7px 10px; 
+    border-radius: 2px;
+}
+.so {
+    margin-left: 16px;
+}
+.menu-sec1 {
+    margin-top: 30px;       
+    float: left;
+    width: 196px;
+    height: 87px;
+    background: #ccc;
+    border-radius: 3px;  
+    margin-right: 27px;
+
+
+
+
+
+
